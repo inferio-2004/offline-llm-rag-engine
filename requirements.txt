@@ -1,0 +1,8 @@
+llama-cpp-python>=0.2.24
+huggingface-hub>=0.20.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+rank-bm25>=0.2.2
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+numpy>=1.24.3
